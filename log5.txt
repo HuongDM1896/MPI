@@ -1,0 +1,13 @@
+[Rank 0] Original vector: [ 1.2  5.6  7.8  3.3 12.1  8.7  0.5  6.6  9.   4.4 11.   2.2]
+[Rank 0] received local_vec = [1.2 5.6 7.8 3.3]
+[Rank 1] received local_vec = [12.1  8.7  0.5  6.6]
+[Rank 2] received local_vec = [ 9.   4.4 11.   2.2]
+[Rank 0] Mean value = 6.033333460489909
+[Rank 2] local_count of elements > mean = 2
+[Rank 1] local_count of elements > mean = 3
+[Rank 0] local_count of elements > mean = 1
+Total number of elements greater than mean: 6
+
+
+huongdm1896 github
+https://huongdm1896.github.io/teach/

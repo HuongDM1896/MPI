@@ -1,0 +1,5 @@
+[Rank 0] Original vectors: X=[ 1  2  3  4  5  6  7  8  9 10 11 12], Y=[ 10  20  30  40  50  60  70  80  90 100 110 120], N=12
+[Rank 0] received local_X=[1 2 3 4], local_Y=[10 20 30 40]
+[Rank 1] received local_X=[5 6 7 8], local_Y=[50 60 70 80]
+[Rank 2] received local_X=[ 9 10 11 12], local_Y=[ 90 100 110 120]
+Total scalar product: 6500

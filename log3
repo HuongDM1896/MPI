@@ -1,0 +1,12 @@
+Number of pixels: 231353
+[Rank 0] Pixel count before adjustment: 231353
+[Rank 0] Pixel count after adjustment: 231351
+[Rank 1] received pixels [-6279    -1    -1 ...     0     0     0]
+[Rank 2] received pixels [-1330135096  2071633325  1667263867 ...           0           0
+           0]
+[Rank 0] received pixels [         -1 -1296695297      -13637 ...           0           0
+           0]
+[Rank 1] local_count (pixels > 100) = 2932
+[Rank 0] local_count (pixels > 100) = 9255
+[Rank 2] local_count (pixels > 100) = 3279
+Total number of pixels with value > 100: 15466
