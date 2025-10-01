@@ -7,7 +7,3 @@
 [Rank 1] local_count of elements > mean = 3
 [Rank 0] local_count of elements > mean = 1
 Total number of elements greater than mean: 6
-
-
-huongdm1896 github
-https://huongdm1896.github.io/teach/
